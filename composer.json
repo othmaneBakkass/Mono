@@ -1,0 +1,17 @@
+{
+    "name": "othmane/Mono",
+    "description": "a ecommerce  fashion website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "monochrome"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
